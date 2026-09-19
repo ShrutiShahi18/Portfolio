@@ -2,7 +2,7 @@
 
 A single-page developer portfolio, styled as a futuristic system interface — skills as a "loadout," projects as "missions," experience as career progression, achievements as unlocked milestones.
 
-**Live:** https://claude.ai/artifact/1EA4HMPAA8QrZdUGFwkk9m
+**Live:** https://portfolio-gsx4.onrender.com/
 
 ## About
 
